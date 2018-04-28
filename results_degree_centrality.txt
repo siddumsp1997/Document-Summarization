@@ -1,0 +1,105 @@
+Topic 1
+-------
+
+Threshold = 0.1
+
+{'ROUGE-L-F': 0.21277, 'ROUGE-2-F': 0.01429, 'ROUGE-1-F': 0.22695, 'ROUGE-L-R': 0.21898, 'ROUGE-2-R': 0.01471, 'ROUGE-1-R': 0.23358}
+
+
+
+Threshold = 0.2
+
+{'ROUGE-L-F': 0.20714, 'ROUGE-2-F': 0.09353, 'ROUGE-1-F': 0.21429, 'ROUGE-L-R': 0.21168, 'ROUGE-2-R': 0.09559, 'ROUGE-1-R': 0.21898}
+
+
+
+Threshold = 0.3
+
+{'ROUGE-L-F': 0.20478, 'ROUGE-2-F': 0.02062, 'ROUGE-1-F': 0.20478, 'ROUGE-L-R': 0.21898, 'ROUGE-2-R': 0.02206, 'ROUGE-1-R': 0.21898}
+
+
+
+Topic 2
+-------
+
+Threshold = 0.1
+
+{'ROUGE-L-F': 0.1435, 'ROUGE-2-F': 0.02715, 'ROUGE-1-F': 0.1435, 'ROUGE-L-R': 0.18182, 'ROUGE-2-R': 0.03448, 'ROUGE-1-R': 0.18182}
+
+
+
+Threshold = 0.2
+
+{'ROUGE-L-F': 0.21952, 'ROUGE-2-F': 0.11475, 'ROUGE-1-F': 0.22765, 'ROUGE-L-R': 0.30682, 'ROUGE-2-R': 0.16092, 'ROUGE-1-R': 0.31818}
+
+
+
+Threshold = 0.3
+
+{'ROUGE-L-F': 0.11336, 'ROUGE-2-F': 0.00816, 'ROUGE-1-F': 0.12146, 'ROUGE-L-R': 0.15909, 'ROUGE-2-R': 0.01149, 'ROUGE-1-R': 0.17045}
+
+
+
+Topic 3
+-------
+
+Threshold = 0.1
+
+{'ROUGE-L-F': 0.19595, 'ROUGE-2-F': 0.10884, 'ROUGE-1-F': 0.19595, 'ROUGE-L-R': 0.22137, 'ROUGE-2-R': 0.12308, 'ROUGE-1-R': 0.22137}
+
+
+
+Threshold = 0.2
+
+{'ROUGE-L-F': 0.23684, 'ROUGE-2-F': 0.15232, 'ROUGE-1-F': 0.24342, 'ROUGE-L-R': 0.27481, 'ROUGE-2-R': 0.17692, 'ROUGE-1-R': 0.28244}
+
+
+
+Threshold = 0.3
+
+{'ROUGE-L-F': 0.23529, 'ROUGE-2-F': 0.13158, 'ROUGE-1-F': 0.23529, 'ROUGE-L-R': 0.27481, 'ROUGE-2-R': 0.15385, 'ROUGE-1-R': 0.27481}
+
+
+
+Topic 4
+-------
+
+Threshold = 0.1
+
+{'ROUGE-L-F': 0.1383, 'ROUGE-2-F': 0.05376, 'ROUGE-1-F': 0.1383, 'ROUGE-L-R': 0.16883, 'ROUGE-2-R': 0.06579, 'ROUGE-1-R': 0.16883}
+
+
+
+Threshold = 0.2
+
+{'ROUGE-L-F': 0.13913, 'ROUGE-2-F': 0.05263, 'ROUGE-1-F': 0.14783, 'ROUGE-L-R': 0.20779, 'ROUGE-2-R': 0.07895, 'ROUGE-1-R': 0.22078}
+
+
+
+Threshold = 0.3
+
+{'ROUGE-L-F': 0.12931, 'ROUGE-2-F': 0.05217, 'ROUGE-1-F': 0.12931, 'ROUGE-L-R': 0.19481, 'ROUGE-2-R': 0.07895, 'ROUGE-1-R': 0.19481}
+
+
+
+Topic 5
+-------
+
+Threshold = 0.1
+
+{'ROUGE-L-F': 0.16296, 'ROUGE-2-F': 0.02239, 'ROUGE-1-F': 0.17778, 'ROUGE-L-R': 0.19643, 'ROUGE-2-R': 0.02703, 'ROUGE-1-R': 0.21429}
+
+
+
+Threshold = 0.2
+
+{'ROUGE-L-F': 0.17323, 'ROUGE-2-F': 0.02381, 'ROUGE-1-F': 0.17323, 'ROUGE-L-R': 0.19643, 'ROUGE-2-R': 0.02703, 'ROUGE-1-R': 0.19643}
+
+
+
+Threshold = 0.3
+
+{'ROUGE-L-F': 0.15326, 'ROUGE-2-F': 0.00772, 'ROUGE-1-F': 0.16092, 'ROUGE-L-R': 0.17857, 'ROUGE-2-R': 0.00901, 'ROUGE-1-R': 0.1875}
+
+
+
